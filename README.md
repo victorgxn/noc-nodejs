@@ -1,4 +1,4 @@
-# NOC APP
+<img src='./README/readme.png' width="100%" alt="Banner" />
 
 ### Resume
 The app is structured using clean architecture principles, with separate layers for domain logic, use cases, and infrastructure. This makes it easy to maintain and test the codebase.
@@ -14,5 +14,3 @@ Using the repository pattern, the app can easily be extended to support other st
 - Setup database with ```docker-compose up -d```
 - Run migrations with prisma ```npx prisma migrate dev --name init```
 
-<hr>
-<img src='./README/readme.png' width="100%" alt="Banner" />
